@@ -1,0 +1,23 @@
+{
+  "name": "shadow-image-rabbi",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for fast design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabbi-Reza/shadow-image.git"
+  },
+  "keywords": [
+    "shadow-image",
+    "design"
+  ],
+  "author": "S.M. Rabbi Reza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabbi-Reza/shadow-image/issues"
+  },
+  "homepage": "https://github.com/Rabbi-Reza/shadow-image#readme"
+}
