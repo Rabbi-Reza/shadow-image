@@ -17,4 +17,10 @@ const shadowImage = (options) => {
     })
 }
 
-module.exports.shadowImage = shadowImage;
+const SmileMe = () => {
+    document.write("😋 Hello, Smile Please.😊")
+    // document.innerHTML = "New text!";
+    // alert("Hi, this is an alert box")
+}
+
+module.exports = {shadowImage,SmileMe};

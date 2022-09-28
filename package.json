@@ -1,6 +1,6 @@
 {
-  "name": "shadow-image-rabbi",
-  "version": "1.0.0",
+  "name": "shadowimage-rabbi",
+  "version": "1.0.44",
   "description": "Add awesome shadows for fast design.",
   "main": "index.js",
   "scripts": {
